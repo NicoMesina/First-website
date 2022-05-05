@@ -195,14 +195,13 @@ hr {
     border-radius: 50%;
 }
 
-/* event times */ 
+/* event times */
 
 #times {
-    background-image: url('../images/times-backround.webp');
+    background: url('../images/times-backround.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     width: 100%;
     overflow: hidden;
-
 }
